@@ -2,7 +2,7 @@
 
 A full 3D reconstruction of the Konark Sun Temple (Kalinga "Pidha Deula" style), built entirely in Blender.
 
-<video src="Output/konark_temple_cine_flythrough.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/FartinCat/Konark-Temple-Restoration/main/Output/konark_temple_cine_flythrough.mp4" controls width="100%"></video>
 
 Also posted on X: https://x.com/FartinCat/status/2075122267395076245?s=20
 
