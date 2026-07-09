@@ -1,10 +1,10 @@
 # Konark Sun Temple — 3D Reconstruction
 
+[![Konark Sun Temple hero render — click to watch the flythrough video](Output/konark_temple_hero_preview.png)](Output/konark_temple_cine_flythrough.mp4)
+
 A full 3D reconstruction of the Konark Sun Temple (Kalinga "Pidha Deula" style), built entirely in Blender.
 
-[![Watch the flythrough video](Output/konark_temple_orbit_preview.png)](Output/konark_temple_cine_flythrough.mp4)
-
-Click the image above to play the video, or watch it on X: https://x.com/FartinCat/status/2075122267395076245?s=20
+Click the image above to play the flythrough video, or watch it on X: https://x.com/FartinCat/status/2075122267395076245?s=20
 
 ## About this project
 
@@ -26,7 +26,7 @@ No manual modeling was performed — every mesh, proportion, and camera move in 
 │   └── konark.blend
 ├── Output/                  # Final rendered deliverables
 │   ├── konark_temple_cine_flythrough.mp4   # Cinematic flythrough (full video)
-│   └── konark_temple_orbit_preview.png     # Preview thumbnail used in this README
+│   └── konark_temple_hero_preview.png      # Hero preview image used in this README
 ├── python-scripts/          # Blender Python automation
 │   ├── konark_blockout.py   # Procedural structural blockout (Jagamohana + wheels)
 │   └── render_loop.py       # Batch frame-render automation
@@ -39,7 +39,7 @@ No manual modeling was performed — every mesh, proportion, and camera move in 
 
 ## Output naming convention
 
-Deliverables in `Output/` follow `konark_<subject>_<type>.<ext>`, e.g. `konark_temple_cine_flythrough.mp4` for the cinematic flythrough render and `konark_temple_orbit_preview.png` for its preview thumbnail.
+Deliverables in `Output/` follow `konark_<subject>_<type>.<ext>`, e.g. `konark_temple_cine_flythrough.mp4` for the cinematic flythrough render and `konark_temple_hero_preview.png` for its preview image.
 
 ## License
 
