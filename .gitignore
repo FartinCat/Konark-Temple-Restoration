@@ -1,0 +1,29 @@
+# Blender backup files
+*.blend1
+
+# Render outputs and frame sequences
+Images/renders/
+Videos/renders/
+frames/
+frames_cine/
+frames_closeups/
+frames_orbit/
+
+# Windows and macOS noise
+Thumbs.db
+.DS_Store
+
+# Agents
+.agent/
+.agents/
+.claude/
+.codex/
+
+# mcps
+.mcp.json
+
+# scripts
+scripts/
+
+# Reference Images
+Reference_Images/renders/
